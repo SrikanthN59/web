@@ -1,8 +1,31 @@
-#2
-
 #web-01 
 - setup your a new repositories for  Praticsing HTML, CSS, JavScript and Javacript
 - Write a demo HTML Page, commit the your repostories.
 
+dae & Time 
+
+#WEB-02
+start takeing course in https://tm.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css
+- aware what are essentials for  HTML
+- text basics, headers
+
+
+#WEB-03
+- forms
+
+#WEB-04
+- tables
+
+#WEB-05
+
+#WEB-06
+ 
+
+
+
 Execution Steps
 -git clone https://github.com/SrikanthN59/web.git
+
+
+Resources
+-W3Schools - https://www.w3schools.com/html/, https://www.w3schools.com/css/, https://www.w3schools.com/js/
