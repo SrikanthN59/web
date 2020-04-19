@@ -1,0 +1,8 @@
+#2
+
+#web-01 
+- setup your a new repositories for  Praticsing HTML, CSS, JavScript and Javacript
+- Write a demo HTML Page, commit the your repostories.
+
+Execution Steps
+-git clone https://github.com/SrikanthN59/web.git
